@@ -3,8 +3,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vitorcoelhoft@gmail.com)
 
 
-- 🔭 I’m currently working on analyze and develop systems Java
-- 🌱 I’m currently learning Spring Boot 3 | Microsservices
+- 🔭 I’m currently working on analyze and develop systems Java.
+- 🌱 I’m currently learning Microsservices.
 
  <div>
   <img align="center" width="50" heigth="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"> 
