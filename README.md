@@ -14,6 +14,7 @@
   <img align="center" width="50" heigth="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" width="50" heigth="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg">
   <img align="center" width="50" heigth="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+  <img align="center" width="50" heigth="40" src=" https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg">
 
 </div>
 
