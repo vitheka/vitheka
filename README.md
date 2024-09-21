@@ -2,8 +2,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-da-silveira-coelho-b6a7111bb/)
 
 <div>
- <p>👨‍💻 Junior Developer at  <a href="https://www.angeloni.com.br/grupoangeloni/index">Angeloni</a></p>
- <p>📚 Studing Microservices</p>
+ <p>👨‍💻 mid-level software engineer at  <a href="https://www.angeloni.com.br/grupoangeloni/index">Angeloni</a></p>
+ <p>📚 Studing AWS</p>
 </div>
 
  <div>
